@@ -1,2 +1,2 @@
 # Qiskit-Global-Summer-School-2022
-All resources are listed here.
+All resources along with solutions are listed here.
